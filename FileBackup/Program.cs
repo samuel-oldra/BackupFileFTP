@@ -5,7 +5,7 @@ namespace FileBackup
 {
     internal class Program
     {
-        #region Static private
+        #region Private Methods
 
         private static void Main(string[] args)
         {
@@ -21,6 +21,6 @@ namespace FileBackup
             Console.ReadKey();
         }
 
-        #endregion
+        #endregion Private Methods
     }
 }
