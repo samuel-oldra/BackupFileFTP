@@ -5,7 +5,7 @@ namespace FileBackup
 {
     public class Configuration
     {
-        #region Static public
+        #region Public Methods
 
         public static List<FileFtp> GetFilesDownload()
         {
@@ -30,13 +30,13 @@ namespace FileBackup
                     }
 
                     if (!string.IsNullOrEmpty(ftp) && itens.Length == 2 && line.StartsWith("/"))
-                        files.Add(new FileFtp {Ftp = ftp, User = user, Pass = pass, FilePath = itens[0], File = itens[1]});
+                        files.Add(new FileFtp { Ftp = ftp, User = user, Pass = pass, FilePath = itens[0], File = itens[1] });
                 }
             }
 
             return files;
         }
 
-        #endregion
+        #endregion Public Methods
     }
 }
