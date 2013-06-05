@@ -1,8 +1,7 @@
-ftp://ftp.sindisoft.net;sindisoft;inter2001
-/Dados/Agenda/;Agenda.mdb
-/Dados/serasa/;serasa.mdb
-/Dados/sindileo/;SlSaoLeopoldo.mdb
+ftp://ftp.ftp_1.com.br;usuario_1;senha_1
+/path/to/file/;arquivo_1.mdb
+/path/to/file/;arquivo_2.db
 
-ftp://ftp.sindisoft.com.br;sindisoft1;inter2001
-/Dados/Camboriu/;Sincon.mdb
-/Dados/CdlFarroupilha/;CdlFarroupilha.mdb
+ftp://ftp.ftp_2.com.br;usuario_2;senha_2
+/path/to/file/;arquivo_3.mdb
+/path/to/file/;arquivo_4.db
