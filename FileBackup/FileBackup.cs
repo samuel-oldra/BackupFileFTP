@@ -38,8 +38,6 @@ namespace FileBackup
 
         #endregion Public Methods
 
-
-
         #region Private Methods
 
         private static void CopyStream(Stream inputStream, Stream outputStream)
