@@ -14,8 +14,8 @@ namespace FileBackup
             foreach (FileFtp fileFtp in filesFtp)
             {
                 //string sucess = FileBackup.Download(ftp, user, pass, filePath, file);
-                string sucess = FileBackup.Download(fileFtp);
-                Console.WriteLine(string.IsNullOrEmpty(sucess) ? "Fail" : string.Format("Sucess: {0}", sucess));
+                string success = FileBackup.Download(fileFtp);
+                Console.WriteLine(string.IsNullOrEmpty(success) ? "Fail" : string.Format("Success: {0}", success));
                 Console.WriteLine(string.Format("Processed: {0} de {1}", ++processed, filesFtp.Count));
             }
             Console.ReadKey();
