@@ -1,2 +1,4 @@
-![alt text](https://bitbucket.org/samuel-oldra/backup-file-ftp/raw/ead4c1e110964efc6bdce051fc4879e1c586c43d/README_IMGS/1.png)
-![alt text](https://bitbucket.org/samuel-oldra/backup-file-ftp/raw/ead4c1e110964efc6bdce051fc4879e1c586c43d/README_IMGS/2.png)
+# Configurar
+![alt text](https://raw.githubusercontent.com/samuel-oldra/Backup-File-FTP/main/README_IMGS/1.png)
+# Executar
+![alt text](https://raw.githubusercontent.com/samuel-oldra/Backup-File-FTP/main/README_IMGS/2.png)
